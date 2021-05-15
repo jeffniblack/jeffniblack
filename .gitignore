@@ -1,2 +1,5 @@
-# ignore the .idea directory
+# macOS custom attributes for any folders in this repo (Desktop Services Store)
+.DS_Store
+
+# IntelliJ IDE project settings directory...ignoring = not IDE-specific
 .idea
