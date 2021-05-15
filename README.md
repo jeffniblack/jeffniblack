@@ -1,13 +1,13 @@
 ### 👋  Hi, I’m @jeffniblack
 
-<br>
+---
 
 <!--- 
 👀  I’m interested in ...
 - 🌱  I’m currently learning ...
 - 💞️  I’m looking to collaborate on ...
 --->
-####📫&nbsp;&nbsp;&nbsp;How to reach me *[jeffniblack@me.com](mailto:jeffniblack@me.com)*
+📫&nbsp;&nbsp;&nbsp;How to reach me *[jeffniblack@me.com](mailto:jeffniblack@me.com)*
 
 <!---
 jeffniblack/jeffniblack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
